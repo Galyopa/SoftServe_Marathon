@@ -1,0 +1,8 @@
+[{"name": "user_1", "password": "pass_1"},
+     {"name": "user_2", "password": ["pass_1", "qwerty"]},
+     {"name": "user", "credentials": {"name": "user", "password": "user_pass"}},
+     {"name": "user",
+      "credentials": [{"resource": "gmail", "password": "gmail"},
+                      {"resource": "tik_tok", "password": "pass"},
+                      {"resource": "pc", "password": "gmail"},
+                      {"one_more": [{"user": "user", "password": "!@#$%"}]}]}]
